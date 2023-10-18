@@ -70,17 +70,18 @@ body {
 
 }
 
-@media (min-width: 900px) {
+/*@media (min-width: 530px) {
     .main-header {
-    background: url(areteLogobg.svg) no-repeat;
-    background-size: contain;}
+      background: url(areteLogobg.svg) no-repeat;
+      background: url(arete-website-topcontainer.svg) no-repeat;
+      background-size: contain;}
 
-}
-@media (max-width: 930px) {
+}*/
+/*@media (max-width: 900px) {
     .hide-small{
          display: none;       
     }
-}
+}*/
 
 .row-eq-height {
   display: -webkit-box;
