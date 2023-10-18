@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="23.514843mm"
+   height="27.621719mm"
+   viewBox="0 0 23.514843 27.621719"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Arete MT Logo Square.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="365.07096"
+     inkscape:cy="-480.21704"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g329"
+     showgrid="false"
+     inkscape:window-width="3840"
+     inkscape:window-height="2004"
+     inkscape:window-x="4784"
+     inkscape:window-y="-16"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-1.1954586,-1.0764999)">
+    <g
+       id="g329"
+       transform="matrix(0.26458333,0,0,0.26458333,10108.126,-141.76941)">
+      <path
+         id="path243"
+         d="m -38162.519,610.39811 v 6.193 c 11.74,0 21.574,-8.301 23.951,-19.34 h -6.395 c -2.236,7.588 -9.253,13.147 -17.556,13.147 z"
+         inkscape:connector-curvature="0"
+         style="fill:#2e3192" />
+      <path
+         id="path245"
+         d="m -38162.519,573.77506 v -6.193 c -11.857,0 -21.773,8.465 -24.025,19.67005 h 6.383 c 2.128,-7.75505 9.22,-13.47705 17.642,-13.47705 z"
+         inkscape:connector-curvature="0"
+         style="fill:#2e3192" />
+      <path
+         id="path247"
+         d="m -38162.519,564.59906 c 13.506,0 24.758,9.795 27.051,22.65205 h 6.277 c -2.354,-16.28905 -16.398,-28.84605 -33.328,-28.84605 -16.93,0 -30.977,12.557 -33.33,28.84605 h 6.277 c 2.293,-12.85705 13.547,-22.65205 27.053,-22.65205 z"
+         inkscape:connector-curvature="0"
+         style="fill:#ec008c" />
+      <path
+         id="path249"
+         d="m -38162.519,619.57311 c -13.391,0 -24.57,-9.627 -26.994,-22.322 h -6.291 c 2.492,16.129 16.469,28.516 33.285,28.516 16.816,0 30.791,-12.387 33.283,-28.516 h -6.291 c -2.424,12.696 -13.601,22.322 -26.992,22.322 z"
+         inkscape:connector-curvature="0"
+         style="fill:#ec008c" />
+      <path
+         id="path251"
+         d="m -38162.519,628.74511 c -9.738,0 -18.908,-3.775 -25.82,-10.631 l -4.361,4.398 c 8.08,8.014 18.799,12.426 30.182,12.426 21.881,0 39.973,-16.486 42.533,-37.688 h -6.244 c -2.518,17.777 -17.829,31.495 -36.29,31.495 z"
+         inkscape:connector-curvature="0"
+         style="fill:#2e3192" />
+      <path
+         id="path253"
+         d="m -38162.519,549.23406 c -11.424,0 -22.17,4.443 -30.262,12.51 l 4.375,4.387 c 6.92,-6.902 16.115,-10.703 25.887,-10.703 18.574,0 33.955,13.889 36.332,31.82405 h 6.242 c -2.41,-21.36005 -20.58,-38.01805 -42.574,-38.01805 z"
+         inkscape:connector-curvature="0"
+         style="fill:#2e3192" />
+      <path
+         id="path255"
+         d="m -38125.556,555.23006 -4.387,4.373 c 7.51,7.531 12.088,17.209 13.17,27.64805 h 6.225 c -1.106,-12.09205 -6.332,-23.32005 -15.008,-32.02105 z"
+         inkscape:connector-curvature="0"
+         style="fill:#f6adcd" />
+      <path
+         id="path257"
+         d="m -38199.361,629.06411 c 9.85,9.816 22.934,15.223 36.842,15.223 v -6.193 c -12.258,0 -23.789,-4.766 -32.469,-13.416 z"
+         inkscape:connector-curvature="0"
+         style="fill:#f6adcd" />
+      <path
+         id="path259"
+         d="m -38162.519,546.08306 v -6.193 c -13.938,0 -27.045,5.428 -36.904,15.283 l 4.379,4.381 c 8.689,-8.686 20.242,-13.471 32.525,-13.471 z"
+         inkscape:connector-curvature="0"
+         style="fill:#f6adcd" />
+    </g>
+  </g>
+</svg>
